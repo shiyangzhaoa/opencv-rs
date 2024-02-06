@@ -1,0 +1,11 @@
+{
+  "cSpell.words": [
+    "highgui",
+    "imgcodecs",
+    "imgproc",
+    "imread",
+    "imshow",
+    "opencv",
+    "videoio"
+  ]
+}
